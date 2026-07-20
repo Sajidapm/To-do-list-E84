@@ -1,0 +1,24 @@
+.new-task
+{
+    border: 1px solid gray;
+    width: 50%;
+}
+.editEvent
+{
+    background-color: rgb(207, 200, 170);
+}
+.deleteEvent
+{
+    background-color: rgb(204, 112, 112);
+}
+@media (max-width: 768px) {
+    #todo-container {
+        width: 100%;
+    }
+    
+}
+@media (max-width: 992px) {
+    #todo-container {
+        width: 50%;
+    }
+}
