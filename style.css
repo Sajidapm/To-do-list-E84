@@ -5,6 +5,7 @@
     margin-left: 4rem;
     background-image: url("image/images\ \(2\).jpeg");
     background-size:cover;
+    padding: 20px;
 }
 
 .new-task
@@ -24,6 +25,7 @@
     #todo-container {
         width: 100%;
         margin: 0;
+        padding: 0;
     }
     
 }
