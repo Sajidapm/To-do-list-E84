@@ -17,8 +17,8 @@
     }
     
 }
-@media (max-width: 992px) {
+@media (min-width: 992px )and (max-width:1024) {
     #todo-container {
-        width: 50%;
+        width: 75%;
     }
 }
