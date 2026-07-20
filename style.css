@@ -1,6 +1,7 @@
 #todo-container
 {
     width: 50%;
+    margin-left: 4rem;
 }
 
 .new-task
@@ -23,7 +24,7 @@
     }
     
 }
-@media (min-width: 992px )and (max-width:1024) {
+@media (min-width: 769px )and (max-width:1024px) {
     #todo-container {
         width: 75%;
     }
