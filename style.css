@@ -1,7 +1,10 @@
 #todo-container
 {
     width: 50%;
+    height: 80vh;
     margin-left: 4rem;
+    background-image: url("image/images\ \(2\).jpeg");
+    background-size:cover;
 }
 
 .new-task
